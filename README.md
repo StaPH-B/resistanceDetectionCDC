@@ -1,6 +1,6 @@
 # resistanceDetectionCDC
 
-## File Description:
+## File Descriptions:
 
 Resfinderdrugkey012219.xlsx - A lookup table used by the National Antimicrobial Resistance Survillence Team at CDC to predict antibiotic resistance using the presense/absense of resistance genes. 
 
